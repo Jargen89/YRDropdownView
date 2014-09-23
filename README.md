@@ -10,7 +10,7 @@ Be sure to contact me and let me know, I'd love to give your app some promo love
 
 To use YRDropdownView:
 
-1. Copy over the `YRDropdownView` folder to your project folder. (Note: currently, the background is being drawn using a stretchable image, `bg-yellow.png`. Should you choose to supply your own background, you only need the `YRDropdownView.h\.m` files)
+1. Copy over the `YRDropdownView` folder to your project folder. (Note: currently, the background a stretchable image, `bg-yellow.png`. Should you choose to supply your own background, you only need the `YRDropdownView.h\.m` files)
 2. Enjoy!
 
 ## Usage
